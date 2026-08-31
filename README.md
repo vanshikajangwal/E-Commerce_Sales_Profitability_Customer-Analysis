@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Sales, Profitability & Operational Intelligence Dashboard
+# 🛒 E-Commerce Sales, Profitability & Customer Analysis Dashboard
 
 An end-to-end business intelligence and data analytics project demonstrating **AI-driven synthetic data engineering**, **forensic spreadsheet auditing in Microsoft Excel**, **DAX KPI calculations**, and a **3-page interactive executive dashboard in Microsoft Power BI**.
 
