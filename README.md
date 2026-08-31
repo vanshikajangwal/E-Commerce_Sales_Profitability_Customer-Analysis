@@ -75,8 +75,8 @@ An end-to-end business intelligence and data analytics project demonstrating **A
 ```text
 ├── E-Commerce Sales, Profitability & Customer Analysis.pbix  # Interactive Power BI Model
 ├── E-commerce_Sales_Analysis.xlsx                            # Cleaned & Audited Excel Dataset
-├── raw_data.xlsx                                             # Original Transactional Data
+├── README.md                                                 # Project Documentation
 ├── Screenshot 2026-08-31 101749.png                          # Page 1 Screenshot
 ├── Screenshot 2026-08-31 101810.png                          # Page 2 Screenshot
 ├── Screenshot 2026-08-31 101834.png                          # Page 3 Screenshot
-└── README.md                                                 # Project Documentation
+└──raw_data.xlsx                                             # Original Transactional Data
