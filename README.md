@@ -52,7 +52,7 @@ An end-to-end business intelligence and data analytics project demonstrating **A
 | **Total Gross Profit** | `SUM(Orders[Profit])` | **₹8,28,982.28** ($828.98\text{K}$) | Bottom-line profitability post product cost |
 | **Average Order Value (AOV)** | `DIVIDE([Total Revenue], [Total Orders], 0)` | **₹1,974.69** | Mean cart size realized per order |
 | **Profit Margin %** | `DIVIDE([Total Gross Profit], [Total Revenue], 0)` | **11.99%** | Overall operational enterprise margin |
-| **Average Customer Rating** | `AVERAGE(Orders[Rating])` | **4.37 / 5.00** ⭐ | Customer review score benchmark |
+| **Average Customer Rating** | `AVERAGE(Orders[Rating])` | **4.37 / 5.00**  | Customer review score benchmark |
 | **Return Rate %** | `DIVIDE(CALCULATE(DISTINCTCOUNT(Orders[Order_ID]), Orders[Order_Status]="Returned"), [Total Orders], 0)` | **15.80%** | Delivered merchandise returned post-sale |
 | **Cancellation Rate %** | `DIVIDE(CALCULATE(DISTINCTCOUNT(Orders[Order_ID]), Orders[Order_Status]="Cancelled"), [Total Orders], 0)` | **17.80%** | Orders cancelled prior to fulfillment |
 | **Avg Delivery Days** | `CALCULATE(AVERAGE(Orders[Delivery_Days]), Orders[Order_Status]="Delivered")` | **4.02 days** | Mean turnaround time for delivered items |
