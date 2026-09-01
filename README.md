@@ -26,7 +26,7 @@ An end-to-end business intelligence and data analytics project demonstrating **A
 
 ### Page 1: Executive Overview
 ![Executive Overview](Screenshot%202026-08-31%20101749.png)
-*Tracks top-level enterprise metrics: Total Revenue ($6.91\text{M}$), Gross Profit ($828.98\text{K}$), Profit Margin ($11.99\%$), Total Orders ($3.5\text{K}$), and regional distributions.*
+*Tracks top-level enterprise metrics: Total Revenue (6.91M), Gross Profit (828.98K), Profit Margin (11.99%), Total Orders (3.5K), and regional distributions.*
 
 ---
 
